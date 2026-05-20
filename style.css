@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+body{
+    background-color: hsl(40, 86%, 97%) !important;
+    font-family: "Playfair Display", serif;
+}
+.text-pink-clr{
+    color: hsl(350 65% 55%);
+}
+.bg-pink{
+    background-color: hsl(350, 62%, 57%);
+}
+.bg-light-pink{
+    background-color: hsl(350, 77%, 65%);
+}
+.bg-white{
+    background-color: white;
+}
+h4{
+    margin-bottom: 0px !important;
+}
+ul li{
+    list-style-type: none;
+}
+header{
+    background-color: hsl(40, 86%, 97%);
+    box-shadow: 5px 0px 5px rgb(216, 216, 216);
+    position: sticky;
+    left: 0px;
+    top: 0px;
+}
+.menu ul{
+    margin-bottom: 0px !important;
+    list-style-type: none;
+}
+.menu ul li{
+    display: inline-block;
+}
+.menu a{
+    color: grey;
+    text-decoration: none;
+    display: block;
+    transition: 0.3s all;
+}
+.menu ul li a:hover{
+    color: hsl(350 65% 55%);
+}
+/* ------------------------------------------------ */
+.btn-hover:hover{
+    background-color: hsl(350 65% 55%);
+    color: white;
+    cursor: pointer;
+}
+.m-top-bottom-20{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.m-top{
+    margin-top: 4px !important;
+}
+.m-bottom{
+    margin-bottom: 4px !important;
+}
+.hr{
+height: 4px;
+width: 70px;
+border-radius: 4px;
+background-color: hsl(350 65% 55%);;    
+}
+
+.text-bold{
+    font-weight: 500;
+}
+.box{
+    width: 80%;
+    margin: 10px 50px;
+}
+
+i{
+    font-size: 65px;
+    color: rgb(237, 171, 171);
+
+}
+.contact-link a{
+    color: black;
+    text-decoration: none;
+
+}
+.bg-img{
+    background-image: url(./assets/img/Screenshot\ \(431\).png);
+}
