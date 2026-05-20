@@ -3,6 +3,9 @@ body{
     background-color: hsl(40, 86%, 97%) !important;
     font-family: "Playfair Display", serif;
 }
+ul{
+    padding: 0px !important;
+}
 .text-pink-clr{
     color: hsl(350 65% 55%);
 }
@@ -43,6 +46,12 @@ header{
 }
 .menu ul li a:hover{
     color: hsl(350 65% 55%);
+}
+.myname{
+    font-size:  4rem;
+}
+.section-title{
+    font-size:  3rem;
 }
 /* ------------------------------------------------ */
 .btn-hover:hover{

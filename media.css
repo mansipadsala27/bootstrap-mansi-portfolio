@@ -1,0 +1,37 @@
+@media(max-width:300px){
+    .nav h4{
+        font-size: 13px;
+    }
+    .nav .menu{
+        width: 100%;
+    }
+    .responsive-para{
+        padding: 5px !important;
+        margin: 5px 3px !important;
+    }
+    .myprofile{
+        padding: 0px !important;
+    }
+    .btn{
+        margin: 5px 0px;
+    }
+    .col-lg-12{
+        padding: 3px 0px !important;
+        text-align: center;
+        font-size: 11px;
+    }
+    .nav .menu a {
+        padding: 2px 3px !important;
+        margin: 0px !important;
+    }
+    .myname{
+        font-size: 20px;
+    }
+    .section-title{
+        font-size: 20px;
+    }
+     .contact-box{
+    margin:5px 0px !important;
+   }
+  
+}
