@@ -1,6 +1,6 @@
 @media(max-width:300px){
     .nav h4{
-        font-size: 13px;
+        font-size: 13px !important;
     }
     .nav .menu{
         width: 100%;
