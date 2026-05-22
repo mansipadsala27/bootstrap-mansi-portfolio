@@ -35,6 +35,7 @@ header{
     position: sticky;
     left: 0px;
     top: 0px;
+    z-index: 99;
 }
 .menu ul{
     margin-bottom: 0px !important;
