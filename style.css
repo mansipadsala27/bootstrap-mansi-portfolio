@@ -18,6 +18,11 @@ ul{
 .bg-white{
     background-color: white;
 }
+.logo{
+    align-items: center;
+    display: flex;
+}
+
 h4{
     margin-bottom: 0px !important;
 }
@@ -54,6 +59,9 @@ header{
     font-size:  3rem;
 }
 /* ------------------------------------------------ */
+.btn{
+    margin-bottom: 12px;
+}
 .btn-hover:hover{
     background-color: hsl(350 65% 55%);
     color: white;
@@ -79,12 +87,9 @@ background-color: hsl(350 65% 55%);;
 .text-bold{
     font-weight: 500;
 }
-.box{
-    width: 80%;
-    margin: 10px 50px;
-}
 
-i{
+
+.contact-box i{
     font-size: 65px;
     color: rgb(237, 171, 171);
 
